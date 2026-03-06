@@ -2,6 +2,20 @@
 
 A production-style AI agent safety framework demonstrating multi-layer guardrails with deterministic checks, model-based classification, policy-driven controls, risk scoring, PII protection, prompt-injection detection, human-in-the-loop approvals, and comprehensive audit logging.
 
+## Demo
+
+See the guardrails system in action:
+
+[**Watch Demo Video**](assets/demo-video.mp4)
+
+<video src="assets/demo-video.mp4" controls></video>
+
+> **Note**: The video is compressed to 2.2MB for faster loading. For inline embedding on GitHub's README, you can:
+> 1. Create a new issue/PR on this repository
+> 2. Drag `assets/demo-video.mp4` into the comment box
+> 3. Copy the auto-generated `https://github.com/user-attachments/assets/...` URL
+> 4. Replace the HTML above with just that URL on its own line
+
 ## Features
 
 ### 🛡️ Multi-Layer Security Pipeline
