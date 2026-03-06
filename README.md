@@ -6,15 +6,7 @@ A production-style AI agent safety framework demonstrating multi-layer guardrail
 
 See the guardrails system in action:
 
-[**Watch Demo Video**](assets/demo-video.mp4)
-
-<video src="assets/demo-video.mp4" controls></video>
-
-> **Note**: The video is compressed to 2.2MB for faster loading. For inline embedding on GitHub's README, you can:
-> 1. Create a new issue/PR on this repository
-> 2. Drag `assets/demo-video.mp4` into the comment box
-> 3. Copy the auto-generated `https://github.com/user-attachments/assets/...` URL
-> 4. Replace the HTML above with just that URL on its own line
+https://github.com/user-attachments/assets/2a11d9d3-bf9c-4f38-aa7d-189770805812
 
 ## Features
 
